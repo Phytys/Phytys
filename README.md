@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**Phytys/Phytys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Glenn — an independent builder exploring the intersection of **AI, crypto, privacy, and meaningful products**.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **GitHub Resonance** — a semantic map of developers to help builders find like-minded people and collaborators.
+- 📈 I’m also running **dTAO Analytics** — analytics + autonomous agent systems for the Bittensor ecosystem. [dtaoanalytics.com](https://dtaoanalytics.com/strategies/system)
+- 🌱 I’m currently learning more about **semantic search,AI-agent systems, embeddings, FastAPI, pgvector, product design, and growth**.
+- 👯 I’m looking to collaborate on projects related to **AI agents, bittensor, crypto, developer tools, and privacy-first software**.
+- 🤔 I’m looking for help with **distribution, design polish, and growth strategy**.
+- 💬 Ask me about **Bittensor, autonomous agents, product ideas, embeddings, crypto analytics, or building solo with AI**.
+- 📫 How to reach me: via GitHub or where I’m building in public.
+- ⚡ Fun fact: I left a long telecom career to build things from first principles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I care about
+
+- Meaning over noise  
+- Signal over hype  
+- Privacy over surveillance
+- Decentralized systems
+- Beautiful products with real utility  
+- Finding the right people to build with
+
+### Current Focus
+
+> Build useful things. Keep it simple. Let traction decide.
