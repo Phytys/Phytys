@@ -3,7 +3,7 @@
 I'm Glenn — an independent builder exploring the intersection of **AI, crypto, privacy, and meaningful products**.
 
 - 🔭 I’m currently working on **GitHub Resonance** — to help builders find like-minded people and collaborators.
-- 📈 I’m also running **dTAO Analytics** — analytics + autonomous agent systems for the Bittensor ecosystem. [dtaoanalytics.com](https://dtaoanalytics.com/
+- 📈 I’m also running **dTAO Analytics** — analytics + autonomous agent systems for the Bittensor (TAO) ecosystem. [dtaoanalytics.com](https://dtaoanalytics.com/
 - 🌱 I’m currently learning more about **semantic search,AI-agent systems, embeddings, FastAPI, pgvector, product design, and growth**.
 - 👯 I’m looking to collaborate on projects related to **AI agents, bittensor, crypto, developer tools, and privacy-first software**.
 - 🤔 I’m looking for help with **distribution, design polish, and growth strategy**.
@@ -16,10 +16,10 @@ I'm Glenn — an independent builder exploring the intersection of **AI, crypto,
 - Meaning over noise  
 - Signal over hype  
 - Privacy over surveillance
-- Decentralized systems
+- Decentralized systems e.g. Bittensor
 - Beautiful products with real utility  
 - Finding the right people to build with
 
 ### Current Focus
 
-> Build useful things. Keep it simple. Let traction decide.
+> Build useful things that resonate. Keep it simple. Let traction decide.
